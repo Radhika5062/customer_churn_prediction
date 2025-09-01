@@ -5,3 +5,7 @@ tensorflow
 uvicorn
 fastapi
 ipykernel
+matplotlib
+seaborn
+plotly
+statsmodels
